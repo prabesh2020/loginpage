@@ -15,7 +15,7 @@ import org.springframework.stereotype.Service;
 import com.springboot.registration.model.Role;
 import com.springboot.registration.model.User;
 import com.springboot.registration.repository.UserRepository;
-import com.springboot.registration.web.dto.UserRegistrationDto;
+import com.springboot.registration.controller.dto.UserRegistrationDto;
 
 @Service
 public class UserServiceImpl implements UserService{

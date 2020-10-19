@@ -1,4 +1,4 @@
-package com.springboot.registration.web;
+package com.springboot.registration.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

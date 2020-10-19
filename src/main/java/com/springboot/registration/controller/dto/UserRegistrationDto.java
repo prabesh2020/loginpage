@@ -1,4 +1,4 @@
-package com.springboot.registration.web.dto;
+package com.springboot.registration.controller.dto;
 
 public class UserRegistrationDto {
 	private String firstName;
