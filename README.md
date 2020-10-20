@@ -15,7 +15,7 @@ The link "http://localhost:8080/registration" will allow customer to create a ne
 
 
 
-![GitHub Logo](https://github.com/prabesh2020/loginpage/blob/master/src/main/resources/images/Login.GIF)
+![GitHub Logo](https://github.com/prabesh2020/loginpage/blob/master/src/main/resources/images/registration.GIF)
 
 
 
@@ -23,7 +23,7 @@ The link "http://localhost:8080/registration" will allow customer to create a ne
 	2. For current user login page
 From the homepage or "http://localhost:8080/login" customer will be able to login with the same username and password they provided during their registration. Username will be assigned same as email.
 
-![GitHub Logo](C:\Users\prabesh\eclipse-workspace\springboot-registration\src\main\resources\images\Login.GIF)
+![GitHub Logo](https://github.com/prabesh2020/loginpage/blob/master/src/main/resources/images/Login.GIF)
 
 # Tools Used
 - Spring Boot
