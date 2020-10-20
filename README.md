@@ -15,7 +15,7 @@ The link "http://localhost:8080/registration" will allow customer to create a ne
 
 
 
-![GitHub Logo](C:\Users\prabesh\eclipse-workspace\springboot-registration\src\main\resources\images\registration.GIF)
+![GitHub Logo](https://github.com/prabesh2020/loginpage/blob/master/src/main/resources/images/Login.GIF)
 
 
 
